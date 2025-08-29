@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm hemm priġunieri għal kull membru tal-persunal fil-ħabsijiet tal-UE?",
+  "subtitle": "Bħala medja fil-pajjiżi tal-UE27, mill-2024 ġew irrappurtati 1.95 priġunier għal kull membru tal-persunal.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-ebda dejta disponibbli għal Malta",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Università ta' Lausanne",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "priġunieri għal kull kustodju totali",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
