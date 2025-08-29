@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien y a-t-il de détenus par membre du personnel dans les prisons de l'UE ?",
+  "subtitle": "En moyenne, dans les 27 pays de l'UE, on comptait 1,95 détenu par membre du personnel en 2024.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Aucune donnée disponible pour Malte",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Université de Lausanne",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "détenus par gardien total",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
