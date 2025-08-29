@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik ieslodzīto ir uz vienu darbinieku ES cietumos?",
+  "subtitle": "Vidēji ES27 valstīs 2024. gadā tika ziņots par 1,95 ieslodzītajiem uz vienu darbinieku.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Dati par Maltu nav pieejami.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Lozannas Universitāte",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "ieslodzīto skaits uz vienu aizbildni",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
